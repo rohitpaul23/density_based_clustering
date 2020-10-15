@@ -1,0 +1,20 @@
+1, 2. |Classes
+AGE: continuous.
+SEX: 1, 2.
+STEROID: 1, 2.
+ANTIVIRALS: 1, 2.
+FATIGUE: 1, 2.
+MALAISE: 1, 2.
+ANOREXIA: 1, 2.
+LIVER BIG: 1, 2.
+LIVER FIRM: 1, 2.
+SPLEEN PALPABLE: 1, 2.
+SPIDERS: 1, 2.
+ASCITES: 1, 2.
+VARICES: 1, 2.
+BILIRUBIN: continuous. 
+ALK PHOSPHATE: continuous.
+SGOT: continuous. 
+ALBUMIN: continuous.
+PROTIME: continuous.
+HISTOLOGY: 1, 2.

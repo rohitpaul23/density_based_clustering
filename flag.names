@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7.	|classes.
+landmass: 1,2,3,4,5,6.
+zone: 1,2,3,4.
+area: continuous.
+population: continuous.
+language: 1,2,3,4,5,6,7,8,9,10.
+bars: continuous.
+stripes: continuous.
+colours: continuous.
+red: 0,1.
+green: 0,1.
+blue: 0,1.
+gold: 0,1.
+white: 0,1.
+black: 0,1.
+orange: 0,1.
+mainhue: red, green, blue, gold, white, black, orange, brown.
+circles: continuous.
+crosses: continuous.
+saltires: continuous.
+quarters: continuous.
+sunstars: continuous.
+crescent: 0,1.
+triangle: 0,1.
+icon: 0,1.
+animate: 0,1.
+text: 0,1.
+topleft: red, green, blue, gold, white, black, orange, brown.
+botright: red, green, blue, gold, white, black, orange, brown.

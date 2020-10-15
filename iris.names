@@ -1,0 +1,5 @@
+Iris-setosa,Iris-versicolor,Iris-virginica. | classes
+attribute#1 :continuous.
+attribute#2 :continuous.
+attribute#3 :continuous.
+attribute#4 :continuous.

@@ -1,0 +1,21 @@
+1,2,3,4,5,U.         |Classes
+family:		GB, GK, GS, TN, ZA, ZF, ZH, ZM, ZS.
+product-type:	C, H, G.
+steel:		R, A, U, K, M, S, W, V.
+carbon:	        continuous.
+hardness:       continuous.
+condition:	S, A, X.
+formability:	1, 2, 3, 4, 5.
+strength:       continuous.
+surface-finish:	P, M.
+surface-quality: D, E, F, G.
+enamelability:	1, 2, 3, 4, 5.
+bw-me:		B, M.
+blue-bright-varn-clean:		B, R, V, C.
+shape:		COIL, SHEET.
+thick:	        continuous.
+width:	        continuous.
+len:            continuous.
+oil:		Y, N.
+bore:		0000, 0500, 0600, 0760.
+packing:	1, 2, 3.
